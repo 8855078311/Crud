@@ -3,7 +3,7 @@ name: hello-world
 on:   
   push:   
     branches:   
-      - main  # Specify the branch to which this action applies  
+      - sonali_crud  # Specify the branch to which this action applies  
 
 jobs:  
   my-job:  
